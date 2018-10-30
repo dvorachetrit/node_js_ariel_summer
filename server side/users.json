@@ -1,0 +1,21 @@
+{
+  "name": "samy",
+  "country": "Israel",
+  "age": "35",
+  "isMale": true
+}{
+  "name": "dvora",
+  "country": "Israel",
+  "age": "35",
+  "isMale": false
+}{
+  "name": "davyjones",
+  "country": "Netherlands",
+  "age": "120",
+  "isMale": true
+}{
+  "name": "samyc",
+  "country": "France",
+  "age": "36",
+  "isMale": true
+}
